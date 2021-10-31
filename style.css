@@ -1,0 +1,44 @@
+*{
+    padding: 0px ;
+    margin: 0px ;
+}
+h1, h2, h3 {
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+    font-size: 50px ;
+}
+p {
+    color: whitesmoke ;
+    font-family: fantasy ;
+    font-size: 30px ;
+}
+body{
+    background-color: #510058 ;
+}
+.list-style{
+    text-decoration: none ;
+    font-size: 30px ;
+    color: rgb(232, 129,206) ;
+}
+.list-element a {
+    text-decoration: none ;
+    padding: 5px;
+    color: rgb(232, 129,206) ;
+    background-color: black ;
+    border: 2px solid white ;
+    border-radius: 8px ;
+}
+.list-element {
+    margin: 10px 10px 10px 10px;
+}
+.profile-photo {
+    border-radius: 100% ;
+}
+#foto {
+    margin-top: 40px ;
+    margin-right: 90px ;
+    float: left ;
+}
+.fotoCont {
+    height: 300px ;
+}
